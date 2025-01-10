@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nbrb-tools"
-version = "0.1.0"
+version = "0.0.1"
 description = "A Python library for currency conversion with NBRB"
-license = {text = "MIT"}                  # Лицензия
-readme = "README.md" 
+license = {text = "MIT"}
+readme = "README.md"
 authors = [{name = "Mediano4e", email = "mediano4e@gmail.com"}]
 dependencies = ["requests>=2.32.3"]
 requires-python = ">=3.8, <3.13"
 
 [tool.setuptools.packages.find]
-where = ["nbrb"]  
+where = ["nbrb"]
