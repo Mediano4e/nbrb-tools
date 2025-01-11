@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nbrb-tools",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python library that provides tools to work conveniently with the https://api.nbrb.by/",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
@@ -24,11 +24,10 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.8, <3.13",
+    python_requires=">=3.8",
     install_requires=[
         "requests>=2.32.3",
     ],
-    url="https://github.com/Mediano4e/nbrb-tools",
     project_urls={
         "Source": "https://github.com/Mediano4e/nbrb-tools",
     },
