@@ -1,5 +1,7 @@
 # nbrb-tools
 
+It's a lib that helps to work with nbrb.by api in more convinient way
+
 Installation:
 ```
 pip install nbrb-tools
