@@ -12,6 +12,8 @@ pip install nbrb-tools
 [![Python](https://img.shields.io/pypi/pyversions/nbrb-tools.svg)](https://pypi.org/project/nbrb-tools/)
 [![License](https://img.shields.io/pypi/l/nbrb-tools.svg)](https://pypi.org/project/nbrb-tools/)
 
+## Modules
+- [Client]()
 
 ## Dependencies
-- [Requests - A simple, yet elegant, HTTP library for Python, making HTTP requests easy and human-friendly](https://requests.readthedocs.io)
+- [Requests - A simple HTTP library for Python, making HTTP requests easy and human-friendly](https://requests.readthedocs.io)
